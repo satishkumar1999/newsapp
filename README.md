@@ -56,7 +56,7 @@ https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${th
 
 edit your_api_key_here
 
-🔐 You can get the API key from :https://newsapi.org/account
+🔐 You can get the API key from : https://newsapi.org/account
 
 ---
 
@@ -82,6 +82,14 @@ CSS
 
 ### 5. Screenshots
 https://github.com/satishkumar1999/newsapp/blob/main/image.PNG
+
+---
+
+## 🙋‍♂️ Author
+
+**Satish Kumar**  
+📧 Email: raj715255@gmail.com  
+🔗 GitHub: [@satishkumar1999](https://github.com/satishkumar1999)
 
 
 
