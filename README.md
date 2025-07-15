@@ -52,9 +52,42 @@ npm install
 ### 3. Add your API Key
 Edit your .env file (create if not exists):
 
-https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fa5b86a9d77d4cf0977d7f60513d5423&page=${this.state.page}&pageSize=${this.props.pageSize}
+https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fa5b86a9d77d4cf0977d7f5423&page=${this.state.page}&pageSize=${this.props.pageSize}
 
 edit your_api_key_here
+
+🔐 You can get the API key from :https://newsapi.org/account
+
+---
+
+### 4. Start the app
+npm start
+
+---
+
+## 🛠️ Tech Stack
+React 19
+
+React Router v7
+
+NewsData.io API
+
+React Infinite Scroll Component
+
+JavaScript (ES6+)
+
+CSS
+
+
+
+
+
+
+
+
+
+
+
 
 
 
