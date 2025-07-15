@@ -1,5 +1,5 @@
 ## 📰 React News App
-A modern React-based news application that fetches the latest headlines using the NewsData.io API. It features category-based browsing, infinite scrolling, and responsive routing using React Router.
+A modern React-based news application that fetches the latest headlines using the NewsAPI.org. It features category-based browsing, infinite scrolling, and responsive routing using React Router.
 
 ---
 
@@ -8,7 +8,7 @@ A modern React-based news application that fetches the latest headlines using th
 
 🔁 Infinite scrolling for continuous news feed
 
-🔎 Fetches live news from NewsData.io API
+🔎 Fetches live news from NewsAPI.org
 
 🌐 Routing with React Router v7
 
@@ -33,13 +33,13 @@ newsapp/
 └── README.md
 ```
 
+---
 
+## 🚀 How to Run Locally
 
-
-
-
-
-
+### 1. Clone the Repository
+git clone https://github.com/your-username/newsapp.git
+cd newsapp
 
 
 
