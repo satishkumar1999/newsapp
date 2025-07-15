@@ -38,7 +38,7 @@ newsapp/
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/newsapp.git
+git clone https://github.com/satishkumar1999/newsapp
 
 cd newsapp
 
