@@ -39,6 +39,7 @@ newsapp/
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/newsapp.git
+
 cd newsapp
 
 
