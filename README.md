@@ -81,7 +81,7 @@ CSS
 ---
 
 ### 5. Screenshots
-(image.PNG)
+https://github.com/satishkumar1999/newsapp/blob/main/image.PNG
 
 
 
