@@ -42,6 +42,20 @@ git clone https://github.com/your-username/newsapp.git
 
 cd newsapp
 
+---
+
+### 2. Install dependencies
+npm install
+
+---
+
+### 3. Add your API Key
+Edit your .env file (create if not exists):
+
+ let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fa5b86a9d77d4cf0977d7f60513d5423&page=${this.state.page}&pageSize=${this.props.pageSize}`;
+
+
+
 
 
 
