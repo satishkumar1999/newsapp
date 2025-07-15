@@ -54,7 +54,7 @@ Edit your .env file (create if not exists):
 
 https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=fa5b86a9d77d4cf0977d7f60513d5423&page=${this.state.page}&pageSize=${this.props.pageSize}
 
-
+edit your_api_key_here
 
 
 
